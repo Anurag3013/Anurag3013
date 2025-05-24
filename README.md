@@ -1,33 +1,41 @@
 <!-- Banner -->
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Readme Banner" style="width:100%;" />
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Banner" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Anurag Singh</h1>
+<h1 align="center"> Hey there👋, welcome to my GitHub!</h1>
+<h2 align="center">I'm <span style="color:#00BFFF;">Anurag Singh</span> </h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Web+Developer+%7C+Tech+Learner+%7C+Creative+Thinker;Always+Building+Cool+Stuff+with+Code!" alt="Typing SVG" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
+<p align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="Coding" width="300" />
+</p>
 
 ---
 
-### 📘 **About Me**
+## 🧑‍💼 About Me
 
 - 🌱 I’m currently learning **Web Development**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Anurag3013)
-- 📫 How to reach me: **anurag.133004@gmail.com**
+- 🚀 I love working on creative front-end projects
+- 👨‍💻 All of my work is available at: [GitHub.com/Anurag3013](https://github.com/Anurag3013)
+- 📫 Reach me at: **anurag.133004@gmail.com**
 
 ---
 
-### 🤝 **Connect with Me**
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/anurag-singh-732b9631b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    <span style="font-weight:bold; font-size: 20px;"> LinkedIn</span>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
 ---
 
-### 🛠️ **Languages and Tools**
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
@@ -42,13 +50,12 @@
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag3013&show_icons=true&locale=en" alt="anurag3013 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag3013&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag3013&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag3013&theme=radical" alt="GitHub Streak" />
 </p>
-
