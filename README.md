@@ -7,7 +7,7 @@
 <h2 align="center">I'm <span style="color:#00BFFF;">Anurag Singh</span> </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Web+Developer+%7C+Tech+Learner+%7C+Creative+Thinker;Always+Building+Cool+Stuff+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Web+Developer+%7C+Tech+Learner+%7C+Coder;Always+Building+Cool+Stuff+with+Code!" alt="Typing SVG" />
 </p>
 
 <p align="center">
